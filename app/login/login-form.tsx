@@ -28,7 +28,7 @@ const LoginForm = () => {
           <p className="mt-2 text-neutral-600 dark:text-neutral-400">
             Welcome to the{" "}
             <span className="font-semibold text-neutral-800 dark:text-neutral-200">
-              makr.AI
+              Chatbot.
             </span>{" "}
             Please login with your Github account.
           </p>

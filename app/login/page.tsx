@@ -13,31 +13,10 @@ const LoginPage = () => {
         {/* Content */}
         <div className="absolute inset-0 z-20 flex items-center justify-center px-8">
           <div>
-            <Image
-              className="max-w-[200px]"
-              width={296}
-              height={77}
-              src="/makr-logo-dark.svg"
-              alt="makr-logo"
-            />
+            
             <div className="mt-4">
               <div className="text-2xl font-medium text-neutral-900">
-                A ChatGPT clone with enhanced features for makers.
-              </div>
-              <div className="max-w-xl text-sm text-neutral-700">
-                ChatGPT is a product of OpenAI and makr.AI is{" "}
-                <span className="font-medium text-neutral-800">
-                  100% unaffiliated with OpenAI.
-                </span>{" "}
-                In order to use this procut, you must get your OpenAI API key
-                from their{" "}
-                <Link
-                  className="underline underline-offset-4"
-                  href="https://platform.openai.com"
-                >
-                  website
-                </Link>
-                .
+                A ChatGPT clone with enhanced features.
               </div>
             </div>
           </div>

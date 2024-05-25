@@ -2,8 +2,8 @@ import "server-only";
 import ".//globals.css";
 
 export const metadata = {
-  title: "makr.AI",
-  description: "A ChatGPT clone with enhanced features for makers.",
+  title: "Chatbot",
+  description: "A ChatGPT clone with enhanced features.",
 };
 
 import JotaiProvider from "@/components/providers/jotai-provider";
